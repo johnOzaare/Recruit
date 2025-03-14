@@ -113,7 +113,7 @@ OSSAdmiral-Recruit is a web application System with rich feature.
 
 ## Contributing
 
-Thank you for considering contributing to the OSSAdmiral-Recruit.
+Thank you for considering contributing to the OSSAdmiral-Recruit and tech.
 
 ## Code of Conduct
 
