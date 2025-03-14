@@ -11,7 +11,7 @@
 
 # Introduction
 
-Welcome to "Recruit," your innovative open-source system designed to streamline and optimize the talent acquisition process. With Recruit, you can effortlessly manage every aspect of your recruitment efforts, from posting job openings to evaluating candidates and making data-driven decisions. Say goodbye to the complexities of recruitment and embrace a simpler, more efficient solution that empowers your organization to build a top-notch team. Get ready to revolutionize your recruitment strategy with Recruit!
+Welcome to "Recruit fork2.0" your innovative open-source system designed to streamline and optimize the talent acquisition process. With Recruit, you can effortlessly manage every aspect of your recruitment efforts, from posting job openings to evaluating candidates and making data-driven decisions. Say goodbye to the complexities of recruitment and embrace a simpler, more efficient solution that empowers your organization to build a top-notch team. Get ready to revolutionize your recruitment strategy with Recruit!
 
 # Official Documentation
 
